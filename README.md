@@ -3,63 +3,63 @@
 ## Front Tasarım Notları
 
 ### 1 - Login Pages
-- [Login](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/login)
-- [Register](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/register)
-- [Forgot Password](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/forgot-password)
-- Google SSO
+- [x] [Login](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/login)
+- [x] [Register](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/register)
+- [x] [Forgot Password](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/forgot-password)
+- [ ] Google SSO
 
 ### 2 - Layout
-- [CRM Dashboard](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/dashboards/crm)
-  - Vertical
-  - Wide
-  - Search (navbar)
-    - Order (Drop)
-      - Warehouse tracking
-      - Tracking Number
-      - Seller Order Id
-      - Inbound Tracking
-      - Product Title
-      - ASIN
+- [ ] [CRM Dashboard](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/dashboards/crm)
+  - [ ] Vertical
+  - [ ] Wide
+  - [ ] Search (navbar)
+    - [ ] Order (Drop)
+      - [ ] Warehouse tracking
+      - [ ] Tracking Number
+      - [ ] Seller Order Id
+      - [ ] Inbound Tracking
+      - [ ] Product Title
+      - [ ] ASIN
     - Destek talebi
-      - Ticket Number
-      - Title
+      - [ ] Ticket Number
+      - [ ] Title
     - Menuler
-  - Dil seçeneği (tr-en-es) (navbar)
+  - [ ] Dil seçeneği (tr-en-es) (navbar)
   - Bildirimler (navbar)
-    - Kullanıcı özelinde mesaj
-    - Inbound tracking hatırlatması
-    - Etiket girildi uyarısı
-    - Sistem geneli bildirim
-  - Light/dark mode (navbar)
+    - [ ] Kullanıcı özelinde mesaj
+    - [ ] Inbound tracking hatırlatması
+    - [ ] Etiket girildi uyarısı
+    - [ ] Sistem geneli bildirim
+  - [ ] Light/dark mode (navbar)
   - Profile (navbar)
-    - [Profilim](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/account-settings)
-    - Ayarlar
-    - Bakiye (Gösterim)
-    - İş ortaklığı
-    - Güvenli Çıkış
+    - [ ] [Profilim](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/account-settings)
+    - [ ] Ayarlar
+    - [ ] Bakiye (Gösterim)
+    - [ ] İş ortaklığı
+    - [ ] Güvenli Çıkış
 
 ### 3 - Menüler (sidebar)
 - Anasayfa
-  - Depo bilgileri
+  - [ ] Depo bilgileri
 - Dropshipping
-  - Yeni Gönderi
-  - Gönderi Listesi
-  - Bekleyen Siparişler
-  - Sahipsiz kargolar
+  - [ ] Yeni Gönderi
+  - [ ] Gönderi Listesi
+  - [ ] Bekleyen Siparişler
+  - [ ] Sahipsiz kargolar
 - İade Gönderiler
-  - İade talebi oluştur
-  - İade talep takibi
+  - [ ] İade talebi oluştur
+  - [ ] İade talep takibi
 - Diğer İşlemler
-  - Suspend destek
-  - Bakiye Yönetimi
-  - Ödeme detayları
-  - Eğitim Videoları
-  - Sıkça sorulan sorular
-  - Destek talebi
+  - [ ] Suspend destek
+  - [ ] Bakiye Yönetimi
+  - [ ] Ödeme detayları
+  - [ ] Eğitim Videoları
+  - [ ] Sıkça sorulan sorular
+  - [ ] Destek talebi
 - Kullanıcı Sözleşmeleri
-  - Aradepo sözleşmesi
-  - Mesafeli satış sözleşmesi
-  - Hizmet sözleşmesi
+  - [ ] Aradepo sözleşmesi
+  - [ ] Mesafeli satış sözleşmesi
+  - [ ] Hizmet sözleşmesi
 
 ### 4 - Dashboard
 - [Ecommerce Dashboard (static)](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/dashboards/ecommerce)
