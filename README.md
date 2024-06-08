@@ -9,10 +9,10 @@
 - [ ] Google SSO
 
 ### 2 - Layout
-- [ ] [CRM Dashboard](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/dashboards/crm)
-  - [ ] Vertical
-  - [ ] Wide
-  - [ ] Search (navbar)
+- [x] [CRM Dashboard](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/dashboards/crm)
+  - [x] Horizontal
+  - [x] Wide
+  - [x] Search (navbar) -> Upcoming Development
     - [ ] Order (Drop)
       - [ ] Warehouse tracking
       - [ ] Tracking Number
@@ -30,7 +30,7 @@
     - [ ] Inbound tracking hatırlatması
     - [ ] Etiket girildi uyarısı
     - [ ] Sistem geneli bildirim
-  - [ ] Light/dark mode (navbar)
+  - [x] Light/dark mode (navbar)
   - Profile (navbar)
     - [ ] [Profilim](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/account-settings)
     - [ ] Ayarlar
@@ -40,7 +40,7 @@
 
 ### 3 - Menüler (sidebar)
 - Anasayfa
-  - [ ] Depo bilgileri
+  - [x] Depo bilgileri
 - Dropshipping
   - [ ] Yeni Gönderi
   - [ ] Gönderi Listesi
