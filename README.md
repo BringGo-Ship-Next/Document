@@ -36,19 +36,19 @@
     - [ ] Ayarlar
     - [ ] Bakiye (Gösterim)
     - [ ] İş ortaklığı
-    - [ ] Güvenli Çıkış
+    - [x] Güvenli Çıkış
 
 ### 3 - Menüler (sidebar)
 - Anasayfa
   - [x] Depo bilgileri
 - Dropshipping
-  - [ ] Yeni Gönderi
-  - [ ] Gönderi Listesi
-  - [ ] Bekleyen Siparişler
-  - [ ] Sahipsiz kargolar
+  - [x] Yeni Gönderi
+  - [x] Gönderi Listesi
+  - [x] Bekleyen Siparişler
+  - [x] Sahipsiz kargolar
 - İade Gönderiler
-  - [ ] İade talebi oluştur
-  - [ ] İade talep takibi
+  - [x] İade talebi oluştur
+  - [x] İade talep takibi
 - Diğer İşlemler
   - [ ] Suspend destek
   - [ ] Bakiye Yönetimi
