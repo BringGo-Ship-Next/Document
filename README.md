@@ -33,7 +33,7 @@
   - [x] Light/dark mode (navbar)
   - Profile (navbar)
     - [ ] [Profilim](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/account-settings)
-    - [ ] Ayarlar
+    - [ ] Ayarlar (Profilim ayarlar sayfasına yönlen)
     - [ ] Bakiye (Gösterim)
     - [ ] İş ortaklığı
     - [x] Güvenli Çıkış
@@ -51,10 +51,10 @@
   - [x] İade talep takibi
 - Diğer İşlemler
   - [ ] Suspend destek
-  - [ ] Bakiye Yönetimi
+  - [ ] Bakiye Yönetimi (profilimdeki Billing&Plan sayfasına yönlenecek)
   - [ ] Ödeme detayları
   - [ ] Eğitim Videoları
-  - [ ] Sıkça sorulan sorular
+  - [ ] Sıkça sorulan sorular (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/faq)
   - [ ] Destek talebi
 - Kullanıcı Sözleşmeleri
   - [ ] Aradepo sözleşmesi
@@ -102,7 +102,7 @@
   - [Template](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/apps/invoice/preview/4987)
 
 ### 7 - DropShipping - Gönderi Listesi
-- [React Table](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-1/en/react-table)
+- [Kitchen Sink](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-1/en/react-table)
   - Her satırın başında chx olmalı
   - chx hücresinin altında (manuel - amazon iconu)
   - Depo Takip Numarası (Yeni Gönderi sayfasına gidecek ve gerekli değerler ile doldurulmuş olacak)
@@ -125,7 +125,7 @@
     - İade Talebi (popup açacak - (Etiket satın al - Etiketim var))
 
 ### 8 - DropShipping - Bekleyen Siparişler
-- [React Table](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-1/en/react-table)
+- [Kitchen Sink](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-1/en/react-table)
   - Her satırın başında chx olmalı
   - Amazon Order Id
   - Ürün Fotoğrafı
