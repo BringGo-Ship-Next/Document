@@ -35,10 +35,10 @@
     - [ ] [Profilim](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/account-settings)
     - [ ] Ayarlar (Profilim ayarlar sayfasına yönlen)
     - [ ] Bakiye (Gösterim)
-    - [ ] İş ortaklığı
+    - [ ] İş ortaklığı (profilim ayarlar sayfasına yönlen)
     - [x] Güvenli Çıkış
 
-### 3 - Menüler (sidebar)
+### 3 - Menüler (sidebar - USER MENÜLER)
 - Anasayfa
   - [x] Depo bilgileri
 - Dropshipping
@@ -50,12 +50,11 @@
   - [x] İade talebi oluştur
   - [x] İade talep takibi
 - Diğer İşlemler
-  - [ ] Suspend destek
   - [ ] Bakiye Yönetimi (profilimdeki Billing&Plan sayfasına yönlenecek)
   - [ ] Ödeme detayları
   - [ ] Eğitim Videoları
   - [ ] Sıkça sorulan sorular (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/faq)
-  - [ ] Destek talebi
+  - [ ] Destek talebi (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/forms/form-layouts) [Basic with Icons]
 - Kullanıcı Sözleşmeleri
   - [ ] Aradepo sözleşmesi
   - [ ] Mesafeli satış sözleşmesi
