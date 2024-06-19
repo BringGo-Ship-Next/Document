@@ -50,15 +50,15 @@
   - [x] İade talebi oluştur
   - [x] İade talep takibi
 - Diğer İşlemler
-  - [ ] Bakiye Yönetimi (profilimdeki Billing&Plan sayfasına yönlenecek)
-  - [ ] Ödeme detayları
-  - [ ] Eğitim Videoları
-  - [ ] Sıkça sorulan sorular (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/faq)
-  - [ ] Destek talebi (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/forms/form-layouts) [Basic with Icons]
+  - [x] Bakiye Yönetimi (profilimdeki Billing&Plan sayfasına yönlenecek)
+  - [x] Ödeme detayları
+  - [x] Eğitim Videoları
+  - [x] Sıkça sorulan sorular (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/faq)
+  - [x] Destek talebi (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/forms/form-layouts) [Basic with Icons]
 - Kullanıcı Sözleşmeleri
-  - [ ] Aradepo sözleşmesi
-  - [ ] Mesafeli satış sözleşmesi
-  - [ ] Hizmet sözleşmesi
+  - [x] Aradepo sözleşmesi
+  - [x] Mesafeli satış sözleşmesi
+  - [x] Hizmet sözleşmesi
 
 ### 4 - Dashboard
 - [Ecommerce Dashboard (static)](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/dashboards/ecommerce)
