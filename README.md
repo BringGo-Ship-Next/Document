@@ -32,10 +32,9 @@
     - [ ] Sistem geneli bildirim
   - [x] Light/dark mode (navbar)
   - Profile (navbar)
-    - [ ] [Profilim](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/account-settings)
-    - [ ] Ayarlar (Profilim ayarlar sayfasına yönlen)
+    - [ ] [Profilim] (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/user-profile)
+    - [ ] Ayarlar (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/account-settings)
     - [ ] Bakiye (Gösterim)
-    - [ ] İş ortaklığı (profilim ayarlar sayfasına yönlen)
     - [x] Güvenli Çıkış
 
 ### 3 - Menüler (sidebar - USER MENÜLER)
