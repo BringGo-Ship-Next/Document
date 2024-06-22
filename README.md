@@ -5,6 +5,7 @@
 ### 1 - Login Pages
 - [x] [Login](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/login)
 - [x] [Register](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/register)
+- [ ] [TFA](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/pages/auth/two-steps-v2) 
 - [x] [Forgot Password](https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/forgot-password)
 - [ ] Google SSO
 
