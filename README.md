@@ -42,7 +42,7 @@
 - Anasayfa
   - [x] Depo bilgileri
 - Dropshipping
-  - [x] Yeni Gönderi
+  - [x] Yeni Gönderi [Multi Column with Form Separator] (https://demos.pixinvent.com/vuexy-nextjs-admin-template/demo-6/en/forms/form-layouts)
   - [x] Gönderi Listesi
   - [x] Bekleyen Siparişler
   - [x] Sahipsiz kargolar
