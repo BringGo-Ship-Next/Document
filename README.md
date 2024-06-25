@@ -72,7 +72,6 @@
   - Ürün adı
   - ASIN + arama butonu (amazon logolu bir buton)
   - Fiyat
-  - Ülke
   - Adet
   - Dimensions
   - Weight
@@ -83,6 +82,7 @@
   - Şehir (fiyat için req)
   - Eyalet
   - Posta kodu (fiyat için req)
+  - Ülke
   - Telefon
   - Amazon satıcı order id
 - Paket Detayları
